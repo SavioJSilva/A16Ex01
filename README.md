@@ -1,2 +1,2 @@
 # A16Ex01
-Exercicio 01 da aula 16
+Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
